@@ -1,0 +1,28 @@
+[
+    {
+        "Broj tečajnice":"55",
+        "Datum primjene":"21.03.2021"
+        "Država":"Australija",
+        "Šifra valute":"036",
+        "Valuta":"AUD",
+        "Jedinica":1,
+        "Kupovni za devize":"4,922195",
+        "Srednji za devize":"4,937006",
+        "Prodajni za devize":"4,951817"
+    },
+
+
+{"Broj tečajnice":"55"
+,"Datum primjene":"21.03.2021"
+,"Država":"Kanada"
+,"Šifra valute":"124"
+,"Valuta":"CAD"
+,"Jedinica":1
+,"Kupovni za devize":"5,085306"
+,"Srednji za devize":"5,100608"
+,"Prodajni za devize":"5,115910"
+}
+
+
+
+{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Češka","Šifra valute":"203","Valuta":"CZK","Jedinica":1,"Kupovni za devize":"0,289056","Srednji za devize":"0,289926","Prodajni za devize":"0,290796"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Danska","Šifra valute":"208","Valuta":"DKK","Jedinica":1,"Kupovni za devize":"1,015407","Srednji za devize":"1,018462","Prodajni za devize":"1,021517"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Mađarska","Šifra valute":"348","Valuta":"HUF","Jedinica":100,"Kupovni za devize":"2,052286","Srednji za devize":"2,058461","Prodajni za devize":"2,064636"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Japan","Šifra valute":"392","Valuta":"JPY","Jedinica":100,"Kupovni za devize":"5,829785","Srednji za devize":"5,847327","Prodajni za devize":"5,864869"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Norveška","Šifra valute":"578","Valuta":"NOK","Jedinica":1,"Kupovni za devize":"0,745437","Srednji za devize":"0,747680","Prodajni za devize":"0,749923"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Švedska","Šifra valute":"752","Valuta":"SEK","Jedinica":1,"Kupovni za devize":"0,743177","Srednji za devize":"0,745413","Prodajni za devize":"0,747649"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Švicarska","Šifra valute":"756","Valuta":"CHF","Jedinica":1,"Kupovni za devize":"6,834575","Srednji za devize":"6,855140","Prodajni za devize":"6,875705"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Velika Britanija","Šifra valute":"826","Valuta":"GBP","Jedinica":1,"Kupovni za devize":"8,839896","Srednji za devize":"8,866495","Prodajni za devize":"8,893094"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"SAD","Šifra valute":"840","Valuta":"USD","Jedinica":1,"Kupovni za devize":"6,347335","Srednji za devize":"6,366434","Prodajni za devize":"6,385533"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Bosna i Hercegovina","Šifra valute":"977","Valuta":"BAM","Jedinica":1,"Kupovni za devize":"3,860332","Srednji za devize":"3,871948","Prodajni za devize":"3,883564"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"EMU","Šifra valute":"978","Valuta":"EUR","Jedinica":1,"Kupovni za devize":"7,550154","Srednji za devize":"7,572873","Prodajni za devize":"7,595592"},{"Broj tečajnice":"55","Datum primjene":"21.03.2021","Država":"Poljska","Šifra valute":"985","Valuta":"PLN","Jedinica":1,"Kupovni za devize":"1,633631","Srednji za devize":"1,638547","Prodajni za devize":"1,643463"}]
